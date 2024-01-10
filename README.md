@@ -1,0 +1,1 @@
+This project enables reading weather information of a city or town and contains index.html, scripts.js and styles.css all linked to provide a proper working website that reads weather information from 7timer
